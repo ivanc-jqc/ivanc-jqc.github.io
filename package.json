@@ -1,0 +1,17 @@
+{
+  "name": "cc-tbp",
+  "collaborators": [
+    "MinusKelvin <mark.carlson@minuskelvin.net>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "cc_tbp_bg.wasm",
+    "cc_tbp.js",
+    "cc_tbp.d.ts"
+  ],
+  "module": "cc_tbp.js",
+  "types": "cc_tbp.d.ts",
+  "sideEffects": [
+    "./snippets/*"
+  ]
+}
